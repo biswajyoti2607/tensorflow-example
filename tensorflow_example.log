@@ -1,0 +1,73 @@
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Restoring parameters from C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:__main__:Training with run=10 runtime=27.79351043701172
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:__main__:Testing runtime=0.03459429740905762
+INFO:__main__:Testing runtime=0.008021354675292969
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:__main__:Training with run=100 runtime=106.95339179039001
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:__main__:Testing runtime=0.03911328315734863
+INFO:__main__:Testing runtime=0.01102900505065918
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:__main__:Training with run=200 runtime=211.9283094406128
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:__main__:Testing runtime=0.03297138214111328
+INFO:__main__:Testing runtime=0.00856781005859375
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:__main__:Training with run=400 runtime=383.4556107521057
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:__main__:Testing runtime=0.03560209274291992
+INFO:__main__:Testing runtime=0.009023904800415039
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:__main__:Training with run=800 runtime=803.8798131942749
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:__main__:Testing runtime=0.0355985164642334
+INFO:__main__:Testing runtime=0.008022308349609375
+INFO:tensorflow:Summary name Accuracy/ (raw) is illegal; using Accuracy/__raw_ instead.
+INFO:__main__:Training with run=1000 runtime=930.6157028675079
+INFO:tensorflow:C:\gatech\sem3\CS8803-BDS\HW1\git\model\example-model is not in all_model_checkpoint_paths. Manually adding it.
+INFO:__main__:Testing runtime=0.04111218452453613
+INFO:__main__:Testing runtime=0.00852513313293457
